@@ -1,1 +1,1 @@
-# Event-Management-App-Assessment
+# Event-Management-App
